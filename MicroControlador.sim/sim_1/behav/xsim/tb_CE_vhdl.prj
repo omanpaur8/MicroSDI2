@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../MicroControlador.srcs/sources_1/new/CONTROL_MEMORY.vhd" \
+"../../../../MicroControlador.srcs/sources_1/new/ID.vhd" \
+"../../../../MicroControlador.srcs/sources_1/new/Main.vhd" \
+"../../../../MicroControlador.srcs/sources_1/new/PROGRAM_MEMORY.vhd" \
+"../../../../MicroControlador.srcs/sources_1/new/Reg_Cont.vhd" \
+"../../../../MicroControlador.srcs/sources_1/new/Reg_n.vhd" \
+"../../../../MicroControlador.srcs/sim_1/new/tb_CE.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,5 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Failure: Simulation completed
+Time: 200 ns  Iteration: 0  Process: /tb_CE/Stimulus  File: C:/Users/Omar/Dropbox/MicroControlador/MicroControlador.srcs/sim_1/new/tb_CE.vhd
+$finish called at time : 200 ns : File "C:/Users/Omar/Dropbox/MicroControlador/MicroControlador.srcs/sim_1/new/tb_CE.vhd" Line 66
