@@ -51,7 +51,6 @@ signal rom: mem :=(0 =>   "00000000000000100001011000",
                      others => (others =>'0'));
                      
 begin
-
 data <= rom(TO_INTEGER(unsigned(ADDR)));
 
 end Behavioral;
