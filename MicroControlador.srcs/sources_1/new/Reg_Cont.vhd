@@ -58,5 +58,6 @@ else
   sData <= sData;
 end if;
 end process;
+
 Dout <= STD_LOGIC_VECTOR(sData);
 end Behavioral;
